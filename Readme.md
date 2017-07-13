@@ -8,10 +8,10 @@
 
 4. Slack
 
-5. <i>
+5. i
 
-6. <b>
+6. b
 
-7. <em>
+7. em
 
-8. <strong>
+8. strong
